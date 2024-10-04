@@ -2,7 +2,7 @@ This web application is useful for looking about some general information of any
 It uses this api: https://api-ninjas.com/api/planets
 It also retrieves the image from a web scraping api https://serper.dev/, so maybe images of the planets are not really accurated! It just displays first image found.
 Made with React, ThreeJS, Tailwind. I tried to do an interactive and cool interface. 
-You can try it here (if api's servers aren't down)
+You can try it here (if api's servers aren't down or I reach requests limits)
 
 https://planetsreact.netlify.app/planets
 
