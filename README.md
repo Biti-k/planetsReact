@@ -9,7 +9,7 @@ https://planetsreact.netlify.app/planets
 
 Visual glitches are caused because of gif recording app 
 ![responsive](https://github.com/user-attachments/assets/328a6564-1178-4e8f-a59b-41c767d34936)
-![planet](https://github.com/user-attachments/assets/ad15b990-ff5d-4585-8804-c0fe775860a0)
+![planetspinning](https://github.com/user-attachments/assets/dd308989-e7cc-4eff-bc47-35a3715497ec)
 ![demo1](https://github.com/user-attachments/assets/bbf57777-5d03-4e97-9d49-d7a070c85f9a)
 
 
